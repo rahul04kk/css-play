@@ -1,0 +1,35 @@
+/* 3 types of css selectors */
+
+/* tag selectors */
+ 
+h1{
+    color: blue
+}
+
+/* class selectors */
+
+.bg-drak{
+    color: white;
+    background-color: black;
+}
+
+.light{
+    font-weight:100;
+}
+
+
+.strikethrough{
+    text-decoration-line: line-through;
+}
+
+.upper-case{
+    text-transform: uppercase;
+}
+
+/* ID selector */  
+
+#hot-news{
+    color: purple;
+    background-color: grey;
+
+}
